@@ -10,5 +10,6 @@ public class n_factorial {
     }
     public static void main(String[] args) {
     System.out.println(fact(5));
+        System.out.println("Sudarshan is naught boy");
     }
 }
